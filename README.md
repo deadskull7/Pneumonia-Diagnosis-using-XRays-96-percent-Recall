@@ -1,6 +1,6 @@
 # Pneumonia-Diagnosis-using-XRays-95-percent-precision
 
-## BEST ON KAGGLE SO FAR , EVEN GREATER THAN THE MEMBER OF KAGGLE TEAM WHO DID BEST SO FAR.
+## BEST ON KAGGLE SO FAR , EVEN GREATER THAN THE KAGGLE TEAM MEMBER WHO DID BEST SO FAR. 
 
 ### Left - No Pneumonia----------------------------------Right - Pneumonia
 ![lungs1](lungs1.png) ![lungs2](lungs2.png)
