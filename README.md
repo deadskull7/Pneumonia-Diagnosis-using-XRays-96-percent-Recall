@@ -1,1 +1,1 @@
-# Pneumonia-Diagnosis-Transfer-Learning-95-precision
+# Pneumonia-Diagnosis-using-XRays-95-percent-precision
