@@ -1,4 +1,4 @@
-# Pneumonia-Diagnosis-using-XRays-95-percent-Recall
+# Pneumonia-Diagnosis-using-XRays-96-percent-Recall
 
 ## BEST SCORE ON KAGGLE SO FAR , EVEN BETTER THAN THE KAGGLE TEAM MEMBER WHO DID BEST SO FAR. 
 
