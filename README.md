@@ -1,7 +1,7 @@
 # Pneumonia-Diagnosis-using-XRays-96-percent-Recall
 
 ## BEST SCORE ON KAGGLE SO FAR , EVEN BETTER THAN THE KAGGLE TEAM MEMBER WHO DID BEST SO FAR. 
-
+ 
 ### Left - No Pneumonia----------------------------------Right - Pneumonia
 ![lungs1](lungs1.png) ![lungs2](lungs2.png)
 ### InceptionV3 Architecture for Transfer Learning.
